@@ -39,6 +39,7 @@ Plug 'yuezk/vim-js'
 Plug 'HerringtonDarkholme/yats.vim'
 Plug 'maxmellon/vim-jsx-pretty'
 Plug 'tpope/vim-commentary'
+Plug 'vim-airline/vim-airline'
 
 call plug#end()
 
